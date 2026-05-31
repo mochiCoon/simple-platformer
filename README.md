@@ -16,3 +16,4 @@ https://youtu.be/LOhfqjmasi0?si=GDe9VD1JRkksyS86
 - [ ] More levels
 - [ ] Sound effects
 - [ ] Animations
+- [ ] Main menu
