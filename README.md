@@ -50,9 +50,9 @@ This project was created to learn:
 
 ## Credits
 
-- Tutorial: Brackeys' *How to Make a Video Game – Godot Beginner Tutorial* :contentReference[oaicite:1]{index=1}
-- Engine: :contentReference[oaicite:2]{index=2}
-- Programming Language: :contentReference[oaicite:3]{index=3}
+- Tutorial: [Brackeys - How to Make a Video Game (Godot Beginner Tutorial)](https://youtu.be/LOhfqjmasi0?si=GDe9VD1JRkksyS86)
+- Engine: Godot
+- Programming Language: C#
 
 ## Future Improvements
 
