@@ -27,11 +27,11 @@ texture = ExtResource("2_qxrlw")
 8:0/0 = 0
 8:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 9:0/0 = 0
-9:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -6.2950544, 8, 0.17985916, -8, -1.2590103)
+9:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -5.7308517, 8, 1.0791521, -8, -1.0791531)
 10:0/0 = 0
 10:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -5.755479, 8, -5.935337, 8, 0.8992939, -8, 1.0791531)
 11:0/0 = 0
-11:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -5.755479, 8, -8, 8, -1.2590103, -8, 0.35971832)
+11:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -5.919897, 8, -8, 8, -1.4388704, -8, 0.8734274)
 0:1/0 = 0
 0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 1:1/0 = 0
@@ -228,7 +228,7 @@ libraries/ = SubResource("AnimationLibrary_wowpa")
 autoplay = &"Move"
 
 [node name="player" parent="." unique_id=1826385403 instance=ExtResource("1_ebmjs")]
-position = Vector2(1, 1)
+position = Vector2(1, 0)
 scale = Vector2(1, 0.89680785)
 
 [node name="Camera2D" type="Camera2D" parent="player" unique_id=1715057295]
