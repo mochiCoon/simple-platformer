@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your raccoon pixel art -->
-  <img src="ReadmeStuff/raccon.png" alt="Raccoon Pixel Art" width="128">
+  <img src="ReadmeStuff/b32ee6cbba8b3cacfd640e390a649e8d.jpg" alt="Raccoon" width="128">
 </p>
 
 A small platformer made in Godot with C#.
